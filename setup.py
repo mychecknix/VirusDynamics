@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+# pylint: skip-file
+
 from setuptools import setup
 
 setup(
