@@ -1,2 +1,3 @@
-[MASTER]
-disable=C0114, # missing-module-docstring
+[MESSAGES CONTROL]
+# missing-module-docstring
+disable=C0114
